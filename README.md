@@ -1,3 +1,4 @@
+Here is a brief description of the projects I worked on.
 # Speech Emotion Recognition
 This was a group project for ST456 - Deep Learning at LSE. I worked in collaboration with Michele Bergami, Simone Moawad and Lucy Malabar.
 
