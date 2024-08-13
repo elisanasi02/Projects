@@ -1,4 +1,9 @@
 Here is a brief description of the projects I worked on.
+# Exploring arrhythmia
+This was as individual project for ST451 - Bayesian Machine Learning at LSE.
+This study investigates the intricate realm of arrhythmia detection and classification using machine learning techniques. Through an in-depth analysis of ECG data and demographic variables, it tries to enhance the understanding of cardiac arrhythmias and develop effective models for their identification.
+Its findings demonstrate the potential of machine learning algorithms in accurately classifying arrhythmias and grouping individuals based on similar characteristics. Despite the challenges posed by the complexity and diversity of arrhythmia patterns, models achieved respectable performance metrics, highlighting their utility in assisting healthcare professionals in early detection and diagnosis.
+Additionally, it is important to keep in mind that the integration of machine learning algorithms into clinical practice requires careful validation and collaboration between data scientists and healthcare professionals to ensure accurate diagnosis and improved patient outcomes.
 # Speech Emotion Recognition
 This was a group project for ST456 - Deep Learning at LSE. I worked in collaboration with Michele Bergami, Simone Moawad and Lucy Malabar.
 
